@@ -4,7 +4,7 @@
 
 This project is a **Personal Finance Analytics Dashboard** built using Google Looker Studio to help track income, expenses, net savings, and spending patterns over time. The project simulates a real-world scenario of managing monthly finances, offering insights into financial behavior and budgeting decisions.
 
-![Dashboard Preview](./Monthly_Financial_Overview.pdf)
+![Dashboard Preview](Monthly_Financial_Overview.pdf)
 
 ---
 
