@@ -1,0 +1,301 @@
+Date,Description,Amount,Mode,Category,Type,Month
+2024-05-03,Myntra,3491,UPI,Shopping,Expense,2024-05
+2024-02-22,Medicine,3602,Bank,Others,Expense,2024-02
+2024-05-07,Uber,2736,Cash,Transport,Expense,2024-05
+2024-02-28,Stationery,2422,Card,Others,Expense,2024-02
+2024-04-03,Myntra,400,Bank,Shopping,Expense,2024-04
+2024-01-17,Spotify,700,Card,Subscription,Expense,2024-01
+2024-06-29,Ola,103,UPI,Transport,Expense,2024-06
+2024-05-21,Netflix,148,Bank,Subscription,Expense,2024-05
+2024-03-29,Spotify,1655,UPI,Subscription,Expense,2024-03
+2024-04-26,Freelance Project,13444,Cash,Income,Income,2024-04
+2024-06-12,Spotify,2316,Cash,Subscription,Expense,2024-06
+2024-04-30,Amazon,2549,Card,Shopping,Expense,2024-04
+2024-02-02,Metro,1266,Card,Transport,Expense,2024-02
+2024-05-16,Ola,1319,Cash,Transport,Expense,2024-05
+2024-06-22,Dominos,935,Bank,Food,Expense,2024-06
+2024-06-04,Cashback,15610,Cash,Income,Income,2024-06
+2024-06-10,Water Bill,2607,Cash,Utilities,Expense,2024-06
+2024-03-04,Medicine,2004,Bank,Others,Expense,2024-03
+2024-03-03,Donation,2231,Card,Others,Expense,2024-03
+2024-06-28,YouTube Premium,2699,Card,Subscription,Expense,2024-06
+2024-06-06,Salary,21249,Cash,Income,Income,2024-06
+2024-01-02,Amazon,3152,UPI,Shopping,Expense,2024-01
+2024-01-06,YouTube Premium,3618,Card,Subscription,Expense,2024-01
+2024-05-30,Local Market,2531,Card,Shopping,Expense,2024-05
+2024-03-06,Myntra,4945,Card,Shopping,Expense,2024-03
+2024-06-04,Auto Fare,558,Card,Transport,Expense,2024-06
+2024-04-27,Medicine,2625,UPI,Others,Expense,2024-04
+2024-04-17,Local Market,211,Bank,Shopping,Expense,2024-04
+2024-02-23,Spotify,1980,Card,Subscription,Expense,2024-02
+2024-03-22,Swiggy,4765,Cash,Food,Expense,2024-03
+2024-03-10,Grocery Store,4070,Cash,Food,Expense,2024-03
+2024-02-05,Freelance Project,11601,Card,Income,Income,2024-02
+2024-02-27,Stationery,2242,Bank,Others,Expense,2024-02
+2024-05-13,Netflix,3590,Card,Subscription,Expense,2024-05
+2024-04-28,Flipkart,687,Cash,Shopping,Expense,2024-04
+2024-05-18,Netflix,3046,Cash,Subscription,Expense,2024-05
+2024-02-15,Zomato,1832,UPI,Food,Expense,2024-02
+2024-01-19,Uber,484,UPI,Transport,Expense,2024-01
+2024-04-08,Swiggy,2673,Bank,Food,Expense,2024-04
+2024-06-07,Zomato,313,Bank,Food,Expense,2024-06
+2024-04-03,Auto Fare,3989,Card,Transport,Expense,2024-04
+2024-05-12,Cashback,26525,Cash,Income,Income,2024-05
+2024-02-22,Myntra,1688,Bank,Shopping,Expense,2024-02
+2024-04-05,Petrol Pump,1692,Card,Transport,Expense,2024-04
+2024-02-26,Petrol Pump,4641,Bank,Transport,Expense,2024-02
+2024-01-03,Grocery Store,4401,Card,Food,Expense,2024-01
+2024-01-10,Electricity Bill,1254,Cash,Utilities,Expense,2024-01
+2024-01-18,Freelance Project,12078,Card,Income,Income,2024-01
+2024-04-15,Grocery Store,139,Card,Food,Expense,2024-04
+2024-05-19,Mobile Recharge,3113,Cash,Utilities,Expense,2024-05
+2024-02-14,Ola,4111,Bank,Transport,Expense,2024-02
+2024-05-22,Internet,518,Bank,Utilities,Expense,2024-05
+2024-06-26,Flipkart,2436,Card,Shopping,Expense,2024-06
+2024-06-12,YouTube Premium,4641,Card,Subscription,Expense,2024-06
+2024-03-14,Uber,895,Bank,Transport,Expense,2024-03
+2024-03-02,Petrol Pump,1582,Card,Transport,Expense,2024-03
+2024-02-18,KFC,3429,Bank,Food,Expense,2024-02
+2024-06-22,Donation,4625,Bank,Others,Expense,2024-06
+2024-05-27,Auto Fare,2942,Cash,Transport,Expense,2024-05
+2024-05-02,Grocery Store,702,Card,Food,Expense,2024-05
+2024-01-24,Spotify,4672,UPI,Subscription,Expense,2024-01
+2024-06-13,Cashback,22388,UPI,Income,Income,2024-06
+2024-04-27,Refund,16319,UPI,Income,Income,2024-04
+2024-06-20,Netflix,4917,Cash,Subscription,Expense,2024-06
+2024-01-05,Myntra,782,Bank,Shopping,Expense,2024-01
+2024-05-27,Grocery Store,3557,Cash,Food,Expense,2024-05
+2024-03-16,Salary,18363,Cash,Income,Income,2024-03
+2024-05-27,Uber,2809,UPI,Transport,Expense,2024-05
+2024-01-26,Amazon Prime,2468,Cash,Subscription,Expense,2024-01
+2024-06-22,YouTube Premium,3450,Bank,Subscription,Expense,2024-06
+2024-03-08,Uber,2790,Cash,Transport,Expense,2024-03
+2024-03-01,Spotify,336,Bank,Subscription,Expense,2024-03
+2024-01-12,Swiggy,4524,UPI,Food,Expense,2024-01
+2024-05-30,Medicine,3740,Cash,Others,Expense,2024-05
+2024-05-15,Stationery,3710,UPI,Others,Expense,2024-05
+2024-02-16,Spotify,1428,Bank,Subscription,Expense,2024-02
+2024-03-28,YouTube Premium,3100,UPI,Subscription,Expense,2024-03
+2024-06-18,Stationery,4263,Card,Others,Expense,2024-06
+2024-02-14,Amazon Prime,2516,Card,Subscription,Expense,2024-02
+2024-06-10,Cashback,18197,Card,Income,Income,2024-06
+2024-02-12,Spotify,2110,Bank,Subscription,Expense,2024-02
+2024-02-05,Internet,4255,Cash,Utilities,Expense,2024-02
+2024-05-17,Netflix,895,Bank,Subscription,Expense,2024-05
+2024-06-20,Stationery,3518,UPI,Others,Expense,2024-06
+2024-01-11,Auto Fare,593,Cash,Transport,Expense,2024-01
+2024-02-21,Flipkart,4948,Cash,Shopping,Expense,2024-02
+2024-03-29,Mobile Recharge,1894,UPI,Utilities,Expense,2024-03
+2024-03-05,Zomato,3361,Cash,Food,Expense,2024-03
+2024-06-11,Flipkart,907,UPI,Shopping,Expense,2024-06
+2024-06-20,Medicine,1458,Card,Others,Expense,2024-06
+2024-04-23,Metro,3126,Bank,Transport,Expense,2024-04
+2024-05-17,Refund,19272,Bank,Income,Income,2024-05
+2024-04-25,Flipkart,2613,Card,Shopping,Expense,2024-04
+2024-04-26,Myntra,483,Cash,Shopping,Expense,2024-04
+2024-05-03,YouTube Premium,2974,UPI,Subscription,Expense,2024-05
+2024-01-23,Dominos,3655,UPI,Food,Expense,2024-01
+2024-04-05,Amazon,2490,UPI,Shopping,Expense,2024-04
+2024-05-21,Cashback,17577,Card,Income,Income,2024-05
+2024-02-23,Electricity Bill,1547,Cash,Utilities,Expense,2024-02
+2024-03-07,Water Bill,4768,Bank,Utilities,Expense,2024-03
+2024-06-09,YouTube Premium,2618,Bank,Subscription,Expense,2024-06
+2024-04-04,KFC,3774,Card,Food,Expense,2024-04
+2024-03-18,Stationery,3723,Card,Others,Expense,2024-03
+2024-01-17,Amazon Prime,1226,Bank,Subscription,Expense,2024-01
+2024-05-16,Gift,785,Card,Others,Expense,2024-05
+2024-06-15,Grocery Store,3976,UPI,Food,Expense,2024-06
+2024-01-29,Mobile Recharge,4014,Bank,Utilities,Expense,2024-01
+2024-02-12,Amazon,289,Card,Shopping,Expense,2024-02
+2024-02-19,Amazon,2384,Card,Shopping,Expense,2024-02
+2024-04-06,Swiggy,3306,Cash,Food,Expense,2024-04
+2024-04-05,Donation,3897,UPI,Others,Expense,2024-04
+2024-04-16,Zomato,383,Card,Food,Expense,2024-04
+2024-05-17,Local Market,3974,Bank,Shopping,Expense,2024-05
+2024-05-24,Dominos,3766,UPI,Food,Expense,2024-05
+2024-01-06,Freelance Project,13340,Card,Income,Income,2024-01
+2024-02-17,Dominos,1650,Bank,Food,Expense,2024-02
+2024-04-28,Zomato,3387,Bank,Food,Expense,2024-04
+2024-06-23,Gift,3491,Cash,Others,Expense,2024-06
+2024-04-23,Gift,3731,Cash,Others,Expense,2024-04
+2024-06-03,Netflix,797,Cash,Subscription,Expense,2024-06
+2024-06-05,Salary,25778,UPI,Income,Income,2024-06
+2024-01-08,Auto Fare,2166,Card,Transport,Expense,2024-01
+2024-01-16,YouTube Premium,4470,Card,Subscription,Expense,2024-01
+2024-04-18,Ola,4512,Card,Transport,Expense,2024-04
+2024-04-03,KFC,4022,Cash,Food,Expense,2024-04
+2024-03-03,Metro,2885,Card,Transport,Expense,2024-03
+2024-02-27,Spotify,567,Bank,Subscription,Expense,2024-02
+2024-04-12,Auto Fare,966,Bank,Transport,Expense,2024-04
+2024-04-22,Metro,4509,UPI,Transport,Expense,2024-04
+2024-02-21,Water Bill,1266,Cash,Utilities,Expense,2024-02
+2024-01-07,Freelance Project,21206,Card,Income,Income,2024-01
+2024-05-03,KFC,4991,UPI,Food,Expense,2024-05
+2024-05-02,Grocery Store,1864,Cash,Food,Expense,2024-05
+2024-05-31,Water Bill,3014,UPI,Utilities,Expense,2024-05
+2024-05-30,Ola,3859,Bank,Transport,Expense,2024-05
+2024-05-28,Electricity Bill,174,Card,Utilities,Expense,2024-05
+2024-01-22,Water Bill,356,UPI,Utilities,Expense,2024-01
+2024-03-11,Stationery,2459,UPI,Others,Expense,2024-03
+2024-03-31,Petrol Pump,555,Card,Transport,Expense,2024-03
+2024-01-18,Stationery,417,Cash,Others,Expense,2024-01
+2024-03-03,Flipkart,4431,Card,Shopping,Expense,2024-03
+2024-03-12,Freelance Project,14307,Cash,Income,Income,2024-03
+2024-01-26,Amazon Prime,3483,Bank,Subscription,Expense,2024-01
+2024-01-02,Electricity Bill,1181,Bank,Utilities,Expense,2024-01
+2024-06-24,Local Market,3415,Card,Shopping,Expense,2024-06
+2024-01-04,Myntra,4486,Card,Shopping,Expense,2024-01
+2024-03-13,Gift,2502,Card,Others,Expense,2024-03
+2024-04-04,Water Bill,2860,UPI,Utilities,Expense,2024-04
+2024-03-03,Spotify,2782,Bank,Subscription,Expense,2024-03
+2024-02-03,Amazon,1189,UPI,Shopping,Expense,2024-02
+2024-02-25,Ola,4938,Cash,Transport,Expense,2024-02
+2024-04-13,Swiggy,3440,Bank,Food,Expense,2024-04
+2024-03-09,Spotify,3158,UPI,Subscription,Expense,2024-03
+2024-05-08,Metro,4324,Card,Transport,Expense,2024-05
+2024-06-16,Netflix,1930,UPI,Subscription,Expense,2024-06
+2024-04-15,KFC,3553,Cash,Food,Expense,2024-04
+2024-03-19,Cashback,21105,Card,Income,Income,2024-03
+2024-02-27,Salary,10953,Cash,Income,Income,2024-02
+2024-03-16,Amazon Prime,3198,Bank,Subscription,Expense,2024-03
+2024-02-11,Local Market,4694,Cash,Shopping,Expense,2024-02
+2024-06-21,Salary,27329,Bank,Income,Income,2024-06
+2024-06-20,Petrol Pump,2414,UPI,Transport,Expense,2024-06
+2024-04-29,Myntra,284,UPI,Shopping,Expense,2024-04
+2024-02-03,Amazon Prime,2795,Bank,Subscription,Expense,2024-02
+2024-06-06,Stationery,3578,Card,Others,Expense,2024-06
+2024-04-30,Freelance Project,19379,Card,Income,Income,2024-04
+2024-05-26,Cashback,25758,Cash,Income,Income,2024-05
+2024-06-18,KFC,101,Card,Food,Expense,2024-06
+2024-04-08,Flipkart,2960,Card,Shopping,Expense,2024-04
+2024-05-10,Electricity Bill,3079,Card,Utilities,Expense,2024-05
+2024-02-29,Zomato,3829,Bank,Food,Expense,2024-02
+2024-03-05,Amazon,2756,UPI,Shopping,Expense,2024-03
+2024-02-10,Local Market,3554,Card,Shopping,Expense,2024-02
+2024-02-17,Electricity Bill,274,Cash,Utilities,Expense,2024-02
+2024-04-07,Salary,26081,Cash,Income,Income,2024-04
+2024-01-28,KFC,389,Bank,Food,Expense,2024-01
+2024-02-17,Auto Fare,1416,UPI,Transport,Expense,2024-02
+2024-05-31,Flipkart,4938,Cash,Shopping,Expense,2024-05
+2024-02-29,Ola,3018,UPI,Transport,Expense,2024-02
+2024-03-18,Water Bill,1242,Cash,Utilities,Expense,2024-03
+2024-06-27,YouTube Premium,4383,Cash,Subscription,Expense,2024-06
+2024-05-25,Netflix,4932,UPI,Subscription,Expense,2024-05
+2024-01-27,Refund,24168,Cash,Income,Income,2024-01
+2024-04-21,Spotify,4903,Bank,Subscription,Expense,2024-04
+2024-01-25,Netflix,3124,Cash,Subscription,Expense,2024-01
+2024-03-12,Cashback,14044,Cash,Income,Income,2024-03
+2024-06-24,Dominos,3212,Bank,Food,Expense,2024-06
+2024-04-06,Freelance Project,20436,Cash,Income,Income,2024-04
+2024-04-12,Flipkart,4291,Card,Shopping,Expense,2024-04
+2024-04-30,Spotify,2869,Card,Subscription,Expense,2024-04
+2024-03-18,Cashback,24677,Cash,Income,Income,2024-03
+2024-02-21,Grocery Store,3284,UPI,Food,Expense,2024-02
+2024-06-29,Ola,2264,UPI,Transport,Expense,2024-06
+2024-03-20,Metro,2497,Card,Transport,Expense,2024-03
+2024-03-30,Refund,25079,Cash,Income,Income,2024-03
+2024-04-09,Grocery Store,2406,Card,Food,Expense,2024-04
+2024-04-05,Mobile Recharge,4660,Cash,Utilities,Expense,2024-04
+2024-01-05,Dominos,4043,Card,Food,Expense,2024-01
+2024-01-07,Flipkart,252,Card,Shopping,Expense,2024-01
+2024-03-10,Flipkart,4705,Bank,Shopping,Expense,2024-03
+2024-06-27,Internet,1494,UPI,Utilities,Expense,2024-06
+2024-04-25,Water Bill,4787,Cash,Utilities,Expense,2024-04
+2024-02-04,Donation,3374,Bank,Others,Expense,2024-02
+2024-04-30,Cashback,21170,Card,Income,Income,2024-04
+2024-04-05,Spotify,3618,Bank,Subscription,Expense,2024-04
+2024-01-20,Donation,4008,UPI,Others,Expense,2024-01
+2024-01-16,Donation,1581,Cash,Others,Expense,2024-01
+2024-06-14,Freelance Project,10572,Card,Income,Income,2024-06
+2024-04-21,Netflix,1414,Card,Subscription,Expense,2024-04
+2024-06-18,Mobile Recharge,1229,Bank,Utilities,Expense,2024-06
+2024-06-26,Dominos,4230,Card,Food,Expense,2024-06
+2024-05-25,Swiggy,4133,UPI,Food,Expense,2024-05
+2024-05-18,Gift,2003,Bank,Others,Expense,2024-05
+2024-06-05,Mobile Recharge,3989,UPI,Utilities,Expense,2024-06
+2024-05-01,Donation,449,Bank,Others,Expense,2024-05
+2024-03-04,Zomato,229,Bank,Food,Expense,2024-03
+2024-06-07,Amazon,3674,Cash,Shopping,Expense,2024-06
+2024-03-10,Auto Fare,4340,Bank,Transport,Expense,2024-03
+2024-04-18,Medicine,1818,UPI,Others,Expense,2024-04
+2024-02-22,Myntra,1784,Cash,Shopping,Expense,2024-02
+2024-02-16,Salary,18897,Card,Income,Income,2024-02
+2024-02-08,Salary,21197,UPI,Income,Income,2024-02
+2024-01-23,Zomato,2936,UPI,Food,Expense,2024-01
+2024-05-16,Metro,3189,Cash,Transport,Expense,2024-05
+2024-02-08,Internet,4178,UPI,Utilities,Expense,2024-02
+2024-03-03,Amazon Prime,703,Card,Subscription,Expense,2024-03
+2024-01-21,Mobile Recharge,351,Card,Utilities,Expense,2024-01
+2024-03-04,Local Market,487,Card,Shopping,Expense,2024-03
+2024-06-28,Cashback,28972,UPI,Income,Income,2024-06
+2024-05-30,Mobile Recharge,3609,UPI,Utilities,Expense,2024-05
+2024-05-13,Spotify,4420,UPI,Subscription,Expense,2024-05
+2024-03-18,Grocery Store,958,Cash,Food,Expense,2024-03
+2024-05-22,Grocery Store,4394,UPI,Food,Expense,2024-05
+2024-06-11,Grocery Store,279,Bank,Food,Expense,2024-06
+2024-06-24,Grocery Store,2762,Bank,Food,Expense,2024-06
+2024-04-03,Flipkart,3825,Cash,Shopping,Expense,2024-04
+2024-06-19,Medicine,2756,Card,Others,Expense,2024-06
+2024-03-26,Water Bill,424,UPI,Utilities,Expense,2024-03
+2024-01-09,Freelance Project,10745,Bank,Income,Income,2024-01
+2024-06-19,Freelance Project,23923,Card,Income,Income,2024-06
+2024-05-22,Internet,4241,UPI,Utilities,Expense,2024-05
+2024-06-03,Grocery Store,4853,Bank,Food,Expense,2024-06
+2024-02-03,Donation,1158,Bank,Others,Expense,2024-02
+2024-01-11,Amazon Prime,2242,UPI,Subscription,Expense,2024-01
+2024-06-01,Salary,24359,Bank,Income,Income,2024-06
+2024-04-19,Donation,1270,UPI,Others,Expense,2024-04
+2024-04-13,Grocery Store,3178,Card,Food,Expense,2024-04
+2024-06-21,KFC,3666,Card,Food,Expense,2024-06
+2024-03-16,Myntra,1901,Cash,Shopping,Expense,2024-03
+2024-02-27,Flipkart,3206,Cash,Shopping,Expense,2024-02
+2024-06-18,Ola,4255,Card,Transport,Expense,2024-06
+2024-03-08,Internet,2151,Card,Utilities,Expense,2024-03
+2024-02-14,Stationery,546,Bank,Others,Expense,2024-02
+2024-02-11,Flipkart,3359,Bank,Shopping,Expense,2024-02
+2024-01-20,Freelance Project,11430,Bank,Income,Income,2024-01
+2024-01-28,Cashback,11734,Cash,Income,Income,2024-01
+2024-06-26,Ola,4095,Cash,Transport,Expense,2024-06
+2024-01-29,Cashback,25684,Cash,Income,Income,2024-01
+2024-01-03,Freelance Project,15982,Card,Income,Income,2024-01
+2024-02-28,Amazon Prime,1959,Cash,Subscription,Expense,2024-02
+2024-01-11,Flipkart,1514,UPI,Shopping,Expense,2024-01
+2024-04-01,Salary,19627,Cash,Income,Income,2024-04
+2024-02-21,Zomato,2505,Card,Food,Expense,2024-02
+2024-02-19,Uber,1452,Cash,Transport,Expense,2024-02
+2024-04-19,Stationery,4705,UPI,Others,Expense,2024-04
+2024-03-30,Freelance Project,22067,Cash,Income,Income,2024-03
+2024-04-19,Netflix,2229,UPI,Subscription,Expense,2024-04
+2024-06-20,Swiggy,2211,UPI,Food,Expense,2024-06
+2024-06-03,Electricity Bill,4757,UPI,Utilities,Expense,2024-06
+2024-01-29,Metro,718,Card,Transport,Expense,2024-01
+2024-03-20,Water Bill,4454,UPI,Utilities,Expense,2024-03
+2024-03-20,Internet,2413,Cash,Utilities,Expense,2024-03
+2024-01-19,Amazon,2701,Card,Shopping,Expense,2024-01
+2024-03-04,Stationery,401,Bank,Others,Expense,2024-03
+2024-03-05,Electricity Bill,1767,Card,Utilities,Expense,2024-03
+2024-06-23,Mobile Recharge,991,Card,Utilities,Expense,2024-06
+2024-05-28,Netflix,2597,UPI,Subscription,Expense,2024-05
+2024-04-15,Metro,4028,Bank,Transport,Expense,2024-04
+2024-01-11,Mobile Recharge,4195,Card,Utilities,Expense,2024-01
+2024-02-04,KFC,1188,UPI,Food,Expense,2024-02
+2024-01-11,Netflix,1719,UPI,Subscription,Expense,2024-01
+2024-04-12,Medicine,4912,Cash,Others,Expense,2024-04
+2024-03-27,Freelance Project,13899,Cash,Income,Income,2024-03
+2024-02-23,Netflix,3669,Bank,Subscription,Expense,2024-02
+2024-03-08,Netflix,1822,Card,Subscription,Expense,2024-03
+2024-04-20,Myntra,2265,Card,Shopping,Expense,2024-04
+2024-03-01,Donation,2107,Card,Others,Expense,2024-03
+2024-02-26,Medicine,1155,Card,Others,Expense,2024-02
+2024-04-13,Dominos,2980,Bank,Food,Expense,2024-04
+2024-04-02,Water Bill,4657,Bank,Utilities,Expense,2024-04
+2024-02-28,Salary,28539,Cash,Income,Income,2024-02
+2024-03-04,Grocery Store,4023,Cash,Food,Expense,2024-03
+2024-02-22,Dominos,576,Bank,Food,Expense,2024-02
+2024-01-18,KFC,2631,Card,Food,Expense,2024-01
+2024-03-01,Swiggy,3690,Cash,Food,Expense,2024-03
+2024-06-16,Donation,4839,Cash,Others,Expense,2024-06
+2024-06-13,Gift,3588,UPI,Others,Expense,2024-06
+2024-05-18,Flipkart,2218,Bank,Shopping,Expense,2024-05
+2024-01-14,Mobile Recharge,4340,UPI,Utilities,Expense,2024-01
+2024-04-08,Stationery,4366,Card,Others,Expense,2024-04
