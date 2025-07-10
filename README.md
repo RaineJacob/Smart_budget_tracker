@@ -2,6 +2,10 @@
 
 # 💸 Smart Budget Tracker – Personal Finance Dashboard
 
+📊 **Live Dashboard**:  
+👉 [View on Looker Studio](https://lookerstudio.google.com/reporting/6aa6c451-2462-408d-910a-e16567456889)  
+*(*Best viewed on desktop browser*)*
+
 This project is a **Personal Finance Analytics Dashboard** built using Google Looker Studio to help track income, expenses, net savings, and spending patterns over time. The project simulates a real-world scenario of managing monthly finances, offering insights into financial behavior and budgeting decisions.
 
 ![Dashboard Preview](Monthly_Financial_Overview.pdf)
@@ -85,4 +89,3 @@ Feel free to fork this repo or use it as a portfolio project, or to practice Loo
 ## 📬 Questions or Feedback?
 
 Open an issue or message me on LinkedIn — happy to collaborate or share feedback!
-
